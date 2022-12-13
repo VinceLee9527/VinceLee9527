@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
-<h3 align="center">Currently on a path to become a developer</h3>
+<h3 align="center">A junior frontend dev trying to survive</h3>
 
-- 🌱 I’m currently learning **JaveScript**
+- 🌱 I’m currently juniort frontend @AmazingTalker
 
-- 📝 I regularly write articles on [https://vlee9527.wixsite.com/dtftg](https://vlee9527.wixsite.com/dtftg)
+- 📝 I regularly write articles on [https://medium.com/@vlee9527](https://medium.com/@vlee9527)
 
 - 📫 How to reach me **vlee9527@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vincent-lee-b5029a137/](https://www.linkedin.com/in/vincent-lee-b5029a137/)
+- 📄 Know about my experiences and portfolio [https://wlinlee.com/](https://wlinlee.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
