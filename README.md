@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
 <h3 align="center">A junior frontend dev trying to survive</h3>
 
-- 🌱 I’m currently juniort frontend @AmazingTalker
+- 🌱 I’m currently junior frontend @AmazingTalker
 
 - 📝 I regularly write articles on [https://medium.com/@vlee9527](https://medium.com/@vlee9527)
 
